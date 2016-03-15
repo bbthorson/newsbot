@@ -1,0 +1,5 @@
+{
+  "project": "newsbot",
+  "projectBucket": "serverlessapp.s3-website-us-east-1.amazonaws.com",
+  "notificationEmail": "brad.thorson@teamaol.com"
+}

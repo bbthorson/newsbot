@@ -1,0 +1,15 @@
+{
+  "name": "newsbot",
+  "version": "0.0.1",
+  "description": "newsbot",
+  "author": "brad.thorson",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bbthorson/newsbot"
+  },
+  "dependencies": {
+    "serverless": "~0.4.2"
+  }
+}
